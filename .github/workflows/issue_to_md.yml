@@ -1,10 +1,11 @@
-# .github/workflows/issues2md.yml
+# Action to backup issues using gh2md, contributed by
+# https://github.com/0ut0fcontrol.
+# See https://github.com/mattduck/gh2md/issues/11.
 name: Issues2Markdown
 on:
-  push: # comment it to reduce update.
   schedule:
     # every day
-    - cron: "*/5 * * * *"
+    - cron: "0 0 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,13 +18,15 @@ jobs:
       run: |
         pip3 install --user --upgrade setuptools
         pip3 install --user gh2md
-        $HOME/.local/bin/gh2md $GITHUB_REPOSITORY ideias-issues --multiple-files --token ${{ secrets.GITHUB_TOKEN }}
-        git add *
+        $HOME/.local/bin/gh2md $GITHUB_REPOSITORY ideas  --multiple-files  --idempotent
+        git add .
+      env:
+        GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Backup all issues" -a
+        git diff --quiet && git diff --staged --quiet || git commit -am "Backup all issues"
     - name: Extract branch name
       shell: bash
       run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
