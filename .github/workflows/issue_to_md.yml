@@ -3,9 +3,9 @@
 # See https://github.com/mattduck/gh2md/issues/11.
 name: Issues2Markdown
 on:
-  schedule:
-    # every day
-    - cron: "*/5 * * * *"
+  issues:
+    types: [opened, edited]
+
 jobs:
   build:
     runs-on: ubuntu-latest
