@@ -40,6 +40,7 @@ jobs:
         branch: ${{ steps.extract_branch.outputs.branch }}
   to_wiki:
     runs-on: ubuntu-latest
+    needs: [to_md]
 
     steps:
       - uses: actions/checkout@v1
@@ -50,4 +51,3 @@ jobs:
           path: "issues/"
         env:
           GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-        needs: [to_md]
