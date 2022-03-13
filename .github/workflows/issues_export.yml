@@ -20,7 +20,7 @@ jobs:
       run: |
         pip3 install --user --upgrade setuptools
         pip3 install git+https://github.com/guilhermeprokisch/gh2md.git
-        $HOME/.local/bin/gh2md $GITHUB_REPOSITORY Documentation --multiple-files  --idempotent
+        $HOME/.local/bin/gh2md $GITHUB_REPOSITORY issues --multiple-files  --idempotent
         git add .
       env:
         GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -47,6 +47,6 @@ jobs:
       - name: Upload Documentation to Wiki
         uses: SwiftDocOrg/github-wiki-publish-action@v1
         with:
-          path: "./"
+          path: "./issues"
         env:
           GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
