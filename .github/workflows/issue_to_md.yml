@@ -4,7 +4,9 @@
 name: Issues2Markdown
 on:
   issues:
-    types: [opened, edited]
+    types: [opened, edited, deleted]
+  issue_comment:
+    types: [created,edited, deleted]
 
 jobs:
   build:
