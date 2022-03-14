@@ -21,5 +21,12 @@ Estou pensando em focar em construir o gráfico. Pq é uma feature mais apelativ
 Para pegar as issues do usuário  usar ockokit
 https://octokit.github.io/rest.js/v18
 
+
+Modelo para citação
+
+<img width="994" alt="Screen Shot 2022-03-14 at 03 04 32" src="https://user-images.githubusercontent.com/12011070/158114402-8ef5e2d5-e1b1-4de9-884a-39ed67782c2f.png">
+
+Está em [ETF China](ETF-China)
+
 -------------------------------------------------------------------------------
 
