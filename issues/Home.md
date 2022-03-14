@@ -1,7 +1,7 @@
 ### [\#84](https://github.com/guilhermeprokisch/ideias/issues/84) 
 ###### 
 
-# WIKI Home
+# Bem-vindo 
 
 Esse é minha Wiki pessoal.
 
