@@ -5,7 +5,8 @@
 
 
 
-_Originally posted by @guilhermeprokisch in https://github.com/guilhermeprokisch/ideias/issues/86#issuecomment-1066340592_
+###### Mentioned in [Home](Home)  
+ > [ETF China](ETF-China)
 
 -------------------------------------------------------------------------------
 
