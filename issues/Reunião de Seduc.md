@@ -7,7 +7,7 @@
 
 ## Dados 
   3 Grandes Grupos:
-  ![image](image)
+  ![image](https://user-images.githubusercontent.com/12011070/90808700-d31dd000-e2f6-11ea-82fa-8a185eb2496d.png)
 
 Eles pegam fontes externas (Quais?). Depois passam por um classificador padrão. Um AutoML da Azure, hoje está em Python.
 
@@ -15,22 +15,22 @@ Interessante! Eles usam a probabilidade por aluno e dá pro aluno no inicio do a
 
 Questão:
 
-![image](image) a taxa de evasão de escola TX_EVASAO não está contaminando ou são os dados históricos?
+![image](https://user-images.githubusercontent.com/12011070/90809107-60612480-e2f7-11ea-910f-9ecba4121a7e.png) a taxa de evasão de escola TX_EVASAO não está contaminando ou são os dados históricos?
 
 Existem outro modelo DGREM. 
-![image](image)
+![image](https://user-images.githubusercontent.com/12011070/90809215-85ee2e00-e2f7-11ea-8e94-83f9a13dcdcf.png)
 
 Me perdi... como eles fizerma esse DGREM?
 
 A Seduc bateu esse antigo modelo.
 
-![image](image)
+![image](https://user-images.githubusercontent.com/12011070/90809389-c6e64280-e2f7-11ea-85ab-fbe7d743d89e.png)
 
 Questão: Eles tem os dados históricos das escolas? Sim. Falado no final da reunião
 
 Eles querem fazer um modelo causal. Presciptive model.
 
-![image](image)
+![image](https://user-images.githubusercontent.com/12011070/90809608-1d538100-e2f8-11ea-8e84-fe98006aff91.png)
 
 Questão: daria para pedir essa variavel de taxa de risco? Sim, já pedimos.
 
