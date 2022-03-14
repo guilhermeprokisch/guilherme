@@ -6,7 +6,6 @@
 _Originally posted by @guilhermeprokisch in https://github.com/guilhermeprokisch/ideias/issues/67#issuecomment-1066343786_
 
 
-[sdfas](sdfas)
 
 -------------------------------------------------------------------------------
 
