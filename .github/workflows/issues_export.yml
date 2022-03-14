@@ -40,16 +40,16 @@ jobs:
         branch: ${{ steps.extract_branch.outputs.branch }}
   to_wiki:
     runs-on: ubuntu-latest
-    needs: [to_md]
-
     steps:
-      - name: Upload Release Notes to Wiki
-        uses: docker://decathlon/wiki-page-creator-action:latest
-        env:
-          ACTION_MAIL: guilhermeprokisch@users.noreply.github.com
-          ACTION_NAME: guilhermeprokisch
-          GH_PAT: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN}}
-          OWNER: guilhermeprokisch
-          REPO_NAME: ideias
+      - uses: actions/checkout@master
+      - name: Sync Wiki
+        uses: joeizzard/action-wiki-sync@master
+        with:
+            username: guilhermeprokisch
+            access_token: ${{ secrets.GITHUB_TOKEN }}
+            wiki_folder: issues
+            commit_username: 'Guilherme Prokisch'
+            commit_email: 'guilhermeprokisch@users.noreply.github.com'
+            commit_message: 'action: wiki sync'
 
 
