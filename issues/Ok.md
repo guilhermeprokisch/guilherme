@@ -4,7 +4,7 @@
 Ok
 
 
-> Orinalmente postado em [Teste](Teste)
+> Referência: [Teste](Teste)
 
 
 
