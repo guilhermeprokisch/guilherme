@@ -40,7 +40,11 @@ jobs:
         branch: ${{ steps.extract_branch.outputs.branch }}
   to_wiki:
     runs-on: ubuntu-latest
+    needs: to_md
     steps:
+      - uses: GuillaumeFalourd/wait-sleep-action@v1
+        with:
+          time: '30' # for 60 seconds
       - uses: actions/checkout@master
       - name: Sync Wiki
         uses: joeizzard/action-wiki-sync@master
