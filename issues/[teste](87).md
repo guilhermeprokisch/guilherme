@@ -3,7 +3,7 @@
 
 [teste](teste)
 
-https://github.com/guilhermeprokisch/ideias/issues/86#issuecomment-1066340592_
+https://github.com/guilhermeprokisch/ideias/issues/86#issuecomment-1066340592
 
 
 
