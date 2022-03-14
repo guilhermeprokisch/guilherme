@@ -1,4 +1,4 @@
-### [\#64](https://github.com/guilhermeprokisch/ideias/issues/64) 
+[64](https://github.com/guilhermeprokisch/ideias/issues/64) 
 ###### 
 
 Recommendation letter:

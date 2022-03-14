@@ -1,4 +1,4 @@
-### [\#56](https://github.com/guilhermeprokisch/ideias/issues/56) 
+[56](https://github.com/guilhermeprokisch/ideias/issues/56) 
 ###### 
 
 [Seneca](Seneca)

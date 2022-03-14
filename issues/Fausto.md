@@ -1,4 +1,4 @@
-### [\#50](https://github.com/guilhermeprokisch/ideias/issues/50) 
+[50](https://github.com/guilhermeprokisch/ideias/issues/50) 
 ###### **Labels**: `Literatura`
 
 

@@ -1,4 +1,4 @@
-### [\#40](https://github.com/guilhermeprokisch/ideias/issues/40) 
+[40](https://github.com/guilhermeprokisch/ideias/issues/40) 
 ###### **Labels**: `Movva`
 
 

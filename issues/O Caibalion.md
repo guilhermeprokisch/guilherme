@@ -1,4 +1,4 @@
-### [\#57](https://github.com/guilhermeprokisch/ideias/issues/57) 
+[57](https://github.com/guilhermeprokisch/ideias/issues/57) 
 ###### **Labels**: `Filosofia`
 
 

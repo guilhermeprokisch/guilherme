@@ -1,4 +1,4 @@
-### [\#27](https://github.com/guilhermeprokisch/ideias/issues/27) 
+[27](https://github.com/guilhermeprokisch/ideias/issues/27) 
 ###### 
 
 Ler: https://plato.stanford.edu/entries/plotinus/ 

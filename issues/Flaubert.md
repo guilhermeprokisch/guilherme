@@ -1,4 +1,4 @@
-### [\#52](https://github.com/guilhermeprokisch/ideias/issues/52) 
+[52](https://github.com/guilhermeprokisch/ideias/issues/52) 
 ###### 
 
 Video do Literatura Universal.

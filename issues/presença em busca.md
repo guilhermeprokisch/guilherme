@@ -1,4 +1,4 @@
-### [\#9](https://github.com/guilhermeprokisch/ideias/issues/9) 
+[9](https://github.com/guilhermeprokisch/ideias/issues/9) 
 ###### **Labels**: `Automisso`
 
 

@@ -1,4 +1,4 @@
-### [\#46](https://github.com/guilhermeprokisch/ideias/issues/46) 
+[46](https://github.com/guilhermeprokisch/ideias/issues/46) 
 ###### 
 
  

@@ -1,4 +1,4 @@
-### [\#14](https://github.com/guilhermeprokisch/ideias/issues/14) 
+[14](https://github.com/guilhermeprokisch/ideias/issues/14) 
 ###### **Labels**: `projetos`
 
 

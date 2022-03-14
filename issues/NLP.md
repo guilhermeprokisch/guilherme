@@ -1,4 +1,4 @@
-### [\#23](https://github.com/guilhermeprokisch/ideias/issues/23) 
+[23](https://github.com/guilhermeprokisch/ideias/issues/23) 
 ###### 
 
 Processamento de texto

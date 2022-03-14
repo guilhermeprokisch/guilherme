@@ -1,9 +1,9 @@
-### [\#84](https://github.com/guilhermeprokisch/ideias/issues/84) 
+[84](https://github.com/guilhermeprokisch/ideias/issues/84) 
 ###### 
 
 # Bem-vindo 
 
-Esse é minha Wiki pessoal.
+Esse é minha wiki pessoal.
 
 
 

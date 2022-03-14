@@ -1,4 +1,4 @@
-### [\#30](https://github.com/guilhermeprokisch/ideias/issues/30) 
+[30](https://github.com/guilhermeprokisch/ideias/issues/30) 
 ###### 
 
  

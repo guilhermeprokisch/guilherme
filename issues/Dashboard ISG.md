@@ -1,4 +1,4 @@
-### [\#15](https://github.com/guilhermeprokisch/ideias/issues/15) 
+[15](https://github.com/guilhermeprokisch/ideias/issues/15) 
 ###### 
 
 - [x] 1 -  Número de envios por mensagem - um gráfico de barras mesmo com a qtd de mensagens disparadas (ex. Seq1 Fato - 10/08 - 5.000 mensagens; Seq 1 Ativ - 13/08 - 4.998 mensagens, ...). A Clara acompanhava isso semanalmente na fase 1 e acho legal estar no dashboard. **Question [889](889)**

@@ -1,4 +1,4 @@
-### [\#44](https://github.com/guilhermeprokisch/ideias/issues/44) 
+[44](https://github.com/guilhermeprokisch/ideias/issues/44) 
 ###### **Labels**: `Filosofia`, `Islam`
 
 

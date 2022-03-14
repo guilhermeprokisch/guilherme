@@ -1,4 +1,4 @@
-### [\#17](https://github.com/guilhermeprokisch/ideias/issues/17) 
+[17](https://github.com/guilhermeprokisch/ideias/issues/17) 
 ###### **Labels**: `projetos`, `Movva`
 
 

@@ -1,4 +1,4 @@
-### [\#33](https://github.com/guilhermeprokisch/ideias/issues/33) 
+[33](https://github.com/guilhermeprokisch/ideias/issues/33) 
 ###### 
 
 Livro: [Cem dias entre o céu e mar](Cem-dias-entre-o-céu-e-mar).

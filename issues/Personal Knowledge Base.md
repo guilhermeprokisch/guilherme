@@ -1,4 +1,4 @@
-### [\#11](https://github.com/guilhermeprokisch/ideias/issues/11) 
+[11](https://github.com/guilhermeprokisch/ideias/issues/11) 
 ###### 
 
 https://www.youtube.com/watch?v=OP3dA2GcAh8
