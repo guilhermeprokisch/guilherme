@@ -1,7 +1,7 @@
 [66](https://github.com/guilhermeprokisch/ideias/issues/66) 
 ###### 
 
-[[Egito]]
+[ Egito ](-Egito-)
 
 ![image](image)
 
