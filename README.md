@@ -1,3 +1,3 @@
-# Ideas
+# Ideias
 
 My second-brain repository
