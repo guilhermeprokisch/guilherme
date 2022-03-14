@@ -3,7 +3,8 @@
 
 Ok
 
-_Originally posted in https://github.com/guilhermeprokisch/ideias/issues/86#issuecomment-1066340481_
+
+Originally posted in [Teste](Teste)
 
 
 
