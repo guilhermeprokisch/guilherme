@@ -4,7 +4,7 @@
 Ok
 
 
-Originally posted in [Teste](Teste)
+> Orinalmente postado em [Teste](Teste)
 
 
 
