@@ -14,8 +14,8 @@ The smiting pose
 A morte é algo central para todas os rituais e artes do Egito.
 
 
-![image](image)
-![image](image)
+![image](https://user-images.githubusercontent.com/12011070/94209058-b9e1e380-fea1-11ea-91a6-682ff0ccff87.png)
+![image](https://user-images.githubusercontent.com/12011070/94209059-b9e1e380-fea1-11ea-8029-fb8930523ae1.png)
 
 -------------------------------------------------------------------------------
 

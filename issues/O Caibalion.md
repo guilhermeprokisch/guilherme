@@ -16,10 +16,10 @@ No Cairo dizem: "O homem teme o tempo, mas o tempo teme as pirâmides"
 Tradição Hermética
 
 
-![image](image)
+![image](https://user-images.githubusercontent.com/12011070/92284764-25571780-eed9-11ea-95e8-0d97d78d468e.png)
 
 
-![image](image)
+![image](https://user-images.githubusercontent.com/12011070/92284994-9dbdd880-eed9-11ea-8eab-a02fe6e4d3da.png)
 
 
 Os gregos não entendiam o Egito.

@@ -10,14 +10,14 @@
 
 
 ## Nota ver o que aconteceu aqui nas semanas 29 30
-![image](image)
+![image](https://user-images.githubusercontent.com/12011070/90845514-95439a80-e33c-11ea-91b3-3ebb426680e8.png)
 
 Provavelmente pelo arquivo que o pedro mandou só era uma amostra de 2000
 
 
 - [x] Arrumar String no filtro de mensagem
 
-![image](image)
+![image](https://user-images.githubusercontent.com/12011070/90852520-0e97b900-e34e-11ea-9689-3fb639565863.png)
 
 
 - [ ] 1- Temos como colocar as datas das semanas ? Ao invés de semana 1 / semana 2 / semana 3.
@@ -40,7 +40,7 @@ Provavelmente pelo arquivo que o pedro mandou só era uma amostra de 2000
 
 Mudar eixo Y desse gráfico
 
-![image](image)
+![image](https://user-images.githubusercontent.com/12011070/91337702-29cd5300-e7aa-11ea-9527-302a08a7ecd0.png)
 
 
 Falar com o Otávio

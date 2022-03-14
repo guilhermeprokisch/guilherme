@@ -23,7 +23,7 @@ https://docs.google.com/spreadsheets/d/1WYTj24Ep1X6MZLnCXiXkiWMoS54H4yyv/edit#gi
 - [x] Quantos contatos temos com telefones únicos (excluindo contatos com telefones duplicados):  413024
 - [x] Quantos contatos possuem telefones duplicados: 715709
 - [x] Quantos telefones aparecem duas vezes, três vezes, quatro, etc... (Cont)
-![image](image)
+![image](https://user-images.githubusercontent.com/12011070/91224769-fc749c80-e6f8-11ea-859b-2ec2d2afaf12.png)
 
 
 
@@ -36,7 +36,7 @@ E ter a visão desses dados (talvez 1 a 4, o que fizer sentido) estratificada po
 - [x] Verificar o que fazer com os dados de acesso
 - [x] Mergear dados do TX
 
-![image](image)
+![image](https://user-images.githubusercontent.com/12011070/91193403-7131e180-e6cd-11ea-9bd2-231529559c49.png)
 
 
 # Exportação:
