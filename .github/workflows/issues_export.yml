@@ -49,9 +49,7 @@ jobs:
           ACTION_MAIL: guilhermeprokisch@users.noreply.github.com
           ACTION_NAME: guilhermeprokisch
           GH_PAT: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN}}
-          MD_FOLDER: ideias
           OWNER: guilhermeprokisch
           REPO_NAME: ideias
-          SKIP_MD: README.md
 
 
