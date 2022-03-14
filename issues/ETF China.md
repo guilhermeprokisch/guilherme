@@ -9,7 +9,6 @@ in [Home](Home)
  > [ETF China](ETF-China)
 
 
-Mention:
  > [ETF China](ETF-China)
 
 -------------------------------------------------------------------------------
