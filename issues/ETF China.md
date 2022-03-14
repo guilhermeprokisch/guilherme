@@ -9,7 +9,7 @@ in [Home](Home)
  > [ETF China](ETF-China)
 
 
- >  ###### _###### Mentioned in [Home](Home)_ :
+ >  ###### _Mention in [Home](Home)_ 
 >  [ETF China](ETF-China)
 
 -------------------------------------------------------------------------------
