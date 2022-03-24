@@ -42,5 +42,8 @@ Tem alguma coisa errada no formato dos arquivos da KPI do Bucket. Resolvi passan
 
 ![image](https://user-images.githubusercontent.com/12011070/92935619-668e8080-f41f-11ea-8c67-1e1426d18b2e.png)
 
+
+<a  href="https://github.com/guilhermeprokisch/ideias/issues/98">Teste</a>
+
 -------------------------------------------------------------------------------
 
