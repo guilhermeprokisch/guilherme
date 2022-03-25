@@ -26,7 +26,7 @@ Essa thread do Reddit tem outros projetos legais
 https://www.reddit.com/r/selfhosted/comments/kphfbl/is_there_a_self_hosted_gitbook_alternative/
 
 
-Testando o mkdocs material.
+Testando o mkdocs material..
 
 -------------------------------------------------------------------------------
 
