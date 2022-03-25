@@ -20,7 +20,7 @@ jobs:
       run: |
         pip3 install --user --upgrade setuptools
         pip3 install git+https://github.com/guilhermeprokisch/gh2md.git
-        $HOME/.local/bin/gh2md $GITHUB_REPOSITORY issues --multiple-files  --idempotent
+        $HOME/.local/bin/gh2md $GITHUB_REPOSITORY docs --multiple-files  --idempotent
         git add .
       env:
         GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -50,7 +50,7 @@ jobs:
       run: |
         pip3 install --user --upgrade setuptools
         pip3 install git+https://github.com/guilhermeprokisch/gh2md.git
-        $HOME/.local/bin/gh2md $GITHUB_REPOSITORY issues --multiple-files  --idempotent
+        $HOME/.local/bin/gh2md $GITHUB_REPOSITORY docs --multiple-files  --idempotent
         git add .
       env:
         GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
