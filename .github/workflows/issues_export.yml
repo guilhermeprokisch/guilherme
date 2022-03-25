@@ -70,6 +70,15 @@ jobs:
         branch: ${{ steps.extract_branch.outputs.branch }}
         repository: 'guilhermeprokisch/ideias.wiki'
         force: true
+  to_site:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material 
+      - run: mkdocs gh-deploy --force
 
 
 
