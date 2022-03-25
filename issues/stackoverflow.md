@@ -1,13 +1,11 @@
-[100](https://github.com/guilhermeprokisch/ideias/issues/100) 
+[105](https://github.com/guilhermeprokisch/ideias/issues/105) 
 ###### 
 
-Teste para o deploy da nova versão do usando o [Heroku](Heroku) .
 
 
-Ainda estou com o problema de achar um fluxo para distribuir o Cogitable.  Mas para finalizar é melhor distribuir como um probot na loja deles.
 
-
-Para embedar videos nas issues talvez seja possível usar essa abordagem:
+ ######  Mention in [Nova Versão Cogitable #100](Nova-Versão-Cogitable-#100)  
+ > Para embedar videos nas issues talvez seja possível usar essa abordagem:
 
 Achei essa issue no [stackoverflow](stackoverflow)
 
