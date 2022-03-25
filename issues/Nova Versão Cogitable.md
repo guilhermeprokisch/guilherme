@@ -18,5 +18,8 @@ Teste:
 
 [![Everything Is AWESOME](Everything-Is-AWESOME)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
+
+Como alternativa ao [gitbook](gitbook) achei esse projeto aqui https://rust-lang.github.io/mdBook/guide/creating.html
+
 -------------------------------------------------------------------------------
 
