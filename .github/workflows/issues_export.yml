@@ -63,22 +63,17 @@ jobs:
       shell: bash
       run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
       id: extract_branch
-    - name: Push changes
+    - name: Push changes/
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
         branch: ${{ steps.extract_branch.outputs.branch }}
         repository: 'guilhermeprokisch/ideias.wiki'
         force: true
-  to_site:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
+    - name : to_site
+      uses: actions/setup-python@v2
+      with:
           python-version: 3.x
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
-
-
-
+          run: | 
+            pip install mkdocs-material 
+            mkdocs gh-deploy --force
