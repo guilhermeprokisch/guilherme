@@ -7,5 +7,9 @@
  ######  Mention in [Nova Versão Cogitable #100](Nova-Versão-Cogitable-#100)  
  > Deploy da nova versão usando o [Heroku](Heroku) .
 
+
+ ######  Mention in [Nova Versão Cogitable #100](Nova-Versão-Cogitable-#100)  
+ > [Heroku](Heroku)
+
 -------------------------------------------------------------------------------
 
