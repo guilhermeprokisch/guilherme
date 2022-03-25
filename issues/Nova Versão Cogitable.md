@@ -21,5 +21,9 @@ Teste:
 
 Como alternativa ao [gitbook](gitbook) achei esse projeto aqui https://rust-lang.github.io/mdBook/guide/creating.html
 
+
+Essa thread do Reddit tem outros projetos legais 
+https://www.reddit.com/r/selfhosted/comments/kphfbl/is_there_a_self_hosted_gitbook_alternative/
+
 -------------------------------------------------------------------------------
 
