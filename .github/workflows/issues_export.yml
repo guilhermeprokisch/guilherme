@@ -71,8 +71,6 @@ jobs:
         repository: 'guilhermeprokisch/ideias.wiki'
         force: true
     - name : to_site
-      uses: actions/checkout@master
-      with:
-          run: | 
+      run: | 
             pip3 install mkdocs-material 
             mkdocs gh-deploy --force
