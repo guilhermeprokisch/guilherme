@@ -9,5 +9,8 @@ Pesquisar sobre zparseopts, é uma parseador de arguementos para funções na li
 
 k
 
+
+am
+
 -------------------------------------------------------------------------------
 
