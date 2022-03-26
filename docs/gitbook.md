@@ -11,5 +11,13 @@
  ######  Mention in [Mkdocs Teste #107](Mkdocs-Teste-#107)  
  > [gitbook](gitbook)
 
+
+ ######  Mention in [Nova Versão Cogitable #100](Nova-Versão-Cogitable-#100)  
+ > [gitbook](gitbook)
+
+
+ ######  Mention in [Info Test #147](Info-Test-#147)  
+ > [gitbook](gitbook)
+
 -------------------------------------------------------------------------------
 
