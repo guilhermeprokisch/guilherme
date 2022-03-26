@@ -1,7 +1,7 @@
 [147](https://github.com/guilhermeprokisch/ideias/issues/147) 
 ###### 
 
-!!! info ":material-apple: Apple Silicon (M1) and :fontawesome-brands-raspberry-pi: Raspberry Pi"
+!!! quote ":material-apple: Apple Silicon (M1) and :fontawesome-brands-raspberry-pi: Raspberry Pi"
 
     The official Docker image is only available for `linux/amd64`. We recommend
     the [third-party image] by @afritzler if you want to run Material for MkDocs
