@@ -1,6 +1,8 @@
 site_name: Ideias
 theme:
   name: material
+  palette:
+    primary: grey
 markdown_extensions:
   - admonition
   - pymdownx.details
