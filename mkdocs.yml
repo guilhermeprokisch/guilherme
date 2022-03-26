@@ -3,6 +3,7 @@ repo_url: https://github.com/guilhermeprokisch/ideias/issues
 repo_name: guilhermeprokisch/ideias
 theme:
   name: material
+  custom_dir: overrides
   palette:
     primary: grey
   features:
