@@ -3,6 +3,8 @@ theme:
   name: material
   palette:
     primary: grey
+  features:
+    - toc.integrate
 markdown_extensions:
   - admonition
   - pymdownx.details
