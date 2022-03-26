@@ -5,6 +5,7 @@ theme:
     primary: grey
   features:
     - toc.integrate
+    - navigation.top
 markdown_extensions:
   - admonition
   - pymdownx.details
