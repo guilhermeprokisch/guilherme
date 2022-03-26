@@ -7,9 +7,6 @@ Melhorar a linha de comando com flags
 Pesquisar sobre zparseopts, é uma parseador de arguementos para funções na linha de comando
 
 
-k
-
-
 am
 
 
