@@ -19,5 +19,9 @@
  ######  Mention in [Info Test #147](Info-Test-#147)  
  > [gitbook](gitbook)
 
+
+ ######  Mention in [Hashtag Cli #146](Hashtag-Cli-#146)  
+ > [gitbook](gitbook)
+
 -------------------------------------------------------------------------------
 
