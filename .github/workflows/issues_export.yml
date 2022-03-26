@@ -44,6 +44,7 @@ jobs:
     - uses: actions/setup-python@v2
       with:
         python-version: 3.x
-    - run: pip install mkdocs-gitbook 
+    - run: pip3 install mkdocs
+    - run: pip3 install mkdocs-gitbook 
     - run: mkdocs build
     - run: mkdocs gh-deploy --force
