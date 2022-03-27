@@ -23,5 +23,9 @@
  ######  Mention in [TesteMais #127](TesteMais-#127)  
  > [Heroku](Heroku) é um sistema legal
 
+
+ ######  Mention in [Bruna #151](Bruna-#151)  
+ > Hoje eu falei sobre [Heroku](Heroku) para Bruna
+
 -------------------------------------------------------------------------------
 
