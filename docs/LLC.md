@@ -25,5 +25,8 @@ Form 1065 multimember
 
 Form 5472 for single member
 
+
+Para single member LLC tem o Proforma 1120 que tem que ir junto
+
 -------------------------------------------------------------------------------
 
