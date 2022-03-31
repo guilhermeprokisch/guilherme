@@ -13,5 +13,8 @@ Pode haver um multa de $25.000 se não preencher o Form 5472
 
 https://www.youtube.com/watch?v=j2lAgZ3nrgQ
 
+
+Nesse video ele explica o pq e os documentos para LLC anualmente
+
 -------------------------------------------------------------------------------
 
