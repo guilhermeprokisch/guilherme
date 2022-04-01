@@ -31,5 +31,15 @@ Para single member LLC tem o Proforma 1120 que tem que ir junto
 
 https://www.youtube.com/watch?v=15KSTegsjKM
 
+
+Endereço de envio
+
+Department of the Treasury
+Internal Revenue Service
+Ogden, UT
+84201-0011
+
+https://www.irs.gov/filing/where-to-file-your-taxes-for-form-1065
+
 -------------------------------------------------------------------------------
 
