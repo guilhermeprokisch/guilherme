@@ -21,7 +21,7 @@ Origem do direito é : Antes se matava o inimigo e conseguia-se o respeito dos d
 
 https://www.youtube.com/watch?v=MaHKBNhbJRc
 
-O argumento do Freud se aseemelha a leitura do [Niestzche](Niestzche)
+O argumento do Freud se aseemelha a leitura do [Nietzsche](Nietzsche)
 
 -------------------------------------------------------------------------------
 

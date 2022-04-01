@@ -17,5 +17,11 @@ Já o cristianismo nega a humanidade como pecadora e por isso seria um repulso p
 
 Isso é um contradição no Cristianismo, o conceito de amor ao próximo não é verdadeiro. Pq se fosse então não haveria problema em continuar a vida após a morte aqui nesse mundo. Isso pode estar relacionado a [Nietzsche](Nietzsche)
 
+
+ ######  Mention in [Por que a Guerra? #163](Por-que-a-Guerra?-#163)  
+ > https://www.youtube.com/watch?v=MaHKBNhbJRc
+
+O argumento do Freud se aseemelha a leitura do [Nietzsche](Nietzsche)
+
 -------------------------------------------------------------------------------
 
