@@ -28,5 +28,8 @@ Modelo para citação
 
 Está em [ETF China](ETF-China)
 
+
+Usar o formatado do TODO.txt https://github.com/todotxt/todo.txt para linkar com milestones e tags
+
 -------------------------------------------------------------------------------
 
