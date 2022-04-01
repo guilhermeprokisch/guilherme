@@ -52,7 +52,7 @@ jobs:
         python-version: 3.x
     - run: python3 -m pip install --upgrade pip
     - run: pip3 install mkdocs
-    - run: pip install mkdocs-material
-    - run: python3 -m pip install jinja2==3.0.3
+    - run: pip3 install mkdocs-material
+    - run: pip3 install jinja2==3.0.3
     - run: mkdocs build
     - run: mkdocs gh-deploy --force
