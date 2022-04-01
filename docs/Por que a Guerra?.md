@@ -13,5 +13,10 @@ A proposta da Liga das Nações e de seu Instituto Internacional para a Cooper
 
 Conseguia-se esse objetivo de modo mais completo se a violência do vencedor eliminasse para sempre o adversário, ou seja, se o matasse. Isto tinha duas vantagens: o vencido não podia restabelecer sua oposição, e o seu destino dissuadiria outros de seguirem seu exemplo. Ademais disso, matar um inimigo satisfazia uma inclinação instintual, que mencionarei posteriormente. À intenção de matar opor-se-ia a reflexão de que o inimigo podia ser utilizado na realização de serviços úteis, se fosse deixado vivo e num estado de intimidação. Nesse caso, a violência do vencedor contentava-se com subjugar, em vez de matar, o vencido. Foi este o início da idéia de poupar a vida de um inimigo, mas a partir daí o vencedor teve de contar com a oculta sede de vingança do adversário vencido e sacrificou uma parte de sua própria segurança.
 
+
+Freud response a Einstein que o estreito laço entre Direito e Poder é no fundo um laço entre direito e violência. Ou seja poder = violência. 
+
+Origem do direito é : Antes se matava o inimigo e conseguia-se o respeito dos demais. Evoluiu para aproveitar o corpo do inimigo para subjugado mas o efeito colateral é ter sempre a vingança do subjugado a espreita.
+
 -------------------------------------------------------------------------------
 
