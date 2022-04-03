@@ -1,83 +1,11 @@
-[84](https://github.com/guilhermeprokisch/ideias/issues/84) 
-###### **Labels**: `Label1`, `Label2`
-
-
+[184](https://github.com/guilhermeprokisch/ideias/issues/184) 
+###### 
 
 # Bem-vindo 
 
 Esse é minha wiki pessoal.
 
 
-Home é a página principal 2
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal333
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Home é a página principal
-
-
-Teste
-
-
-Teste de comentário
-
-
-Teste de comentário com Label
 
 -------------------------------------------------------------------------------
 
