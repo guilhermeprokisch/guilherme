@@ -1,7 +1,5 @@
 [84](https://github.com/guilhermeprokisch/ideias/issues/84) 
-###### **Labels**: `Test3`, `Test4`, `Teste5`, `Teste7`, `MaisTag`
-
-
+###### 
 
 # Bem-vindo 
 
