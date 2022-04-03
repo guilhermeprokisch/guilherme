@@ -1,5 +1,7 @@
 [84](https://github.com/guilhermeprokisch/ideias/issues/84) 
-###### 
+###### **Labels**: `Label1`, `Label2`
+
+
 
 # Bem-vindo 
 
@@ -73,6 +75,9 @@ Teste
 
 
 Teste de comentário
+
+
+Teste de comentário com Label
 
 -------------------------------------------------------------------------------
 
