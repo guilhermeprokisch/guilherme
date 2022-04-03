@@ -8,5 +8,8 @@ O sabor das ideias. E se as ideias também tivesse sabores? Por sermos seres que
 
 O fato do sentimismo existir explica por que é tão dificil o consenso em qualquer conceito, da mesma forma que nunca conseguiremos chegar a um acordo de que sabor de comida é universalmente bom, também talvez não conseguiremos um concenso em outros conceitos
 
+
+[novopalavrismo](novopalavrismo)
+
 -------------------------------------------------------------------------------
 

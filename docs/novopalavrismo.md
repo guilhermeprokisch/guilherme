@@ -25,5 +25,9 @@ Um outro ponto é a falta de uso da prática de construção das palavras. A lí
 
 O último comentário está estranho essa relação de apreco a forma da palavra sobre o conteúdo não é novopalavrismo
 
+
+ ######  Mention in [sentimismo #182](sentimismo-#182)  
+ > [novopalavrismo](novopalavrismo)
+
 -------------------------------------------------------------------------------
 
