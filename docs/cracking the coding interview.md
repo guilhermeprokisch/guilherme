@@ -10,5 +10,8 @@ Falsos positivos são aceitaveis, as empresas estão dispostas a perderem um bom
 
 https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
 
+
+<img width="1147" alt="image" src="https://user-images.githubusercontent.com/12011070/161968279-ba59ad72-cef1-4739-83a1-9fdec102d756.png">
+
 -------------------------------------------------------------------------------
 
