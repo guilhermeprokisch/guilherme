@@ -12,5 +12,22 @@ Errei na solução em typescript do [AlgoExpert](AlgoExpert) pois pensei que o '
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/in
 
+
+ ######  Mention in [AlgoExpert #194](AlgoExpert-#194)  
+ > Solução em [typescript](typescript)
+
+```typescript
+export function twoNumberSum(array: number[], targetSum: number) {
+	
+	for(let i=0; i < array.length; i++){
+		if( array.slice(i+1).include(targetSum - array[i]) ){
+			return [array[i], targetSum - array[i]]
+		}
+	}
+  return [];
+
+}
+```
+
 -------------------------------------------------------------------------------
 
