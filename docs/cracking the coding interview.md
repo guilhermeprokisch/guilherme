@@ -7,5 +7,8 @@ Falsos positivos são aceitaveis, as empresas estão dispostas a perderem um bom
  ######  Mention in [Coding Interviews #191](Coding-Interviews-#191)  
  > [cracking the coding interview](cracking-the-coding-interview)
 
+
+https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
+
 -------------------------------------------------------------------------------
 
