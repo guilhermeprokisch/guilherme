@@ -13,6 +13,8 @@ def twoNumberSum(array, targetSum):
 ````
 
 
+ ######  Mention in [typescript #195](typescript-#195)  
+ > Errei na solução em typescript do [AlgoExpert](AlgoExpert) pois pensei que o 'in' do Js era similar ao do Python. Não, o in do JS é para verificar se uma propriedade está em um objeto. E não para ver se algum elemento está em um array
 
 -------------------------------------------------------------------------------
 
