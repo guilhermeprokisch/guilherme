@@ -1555,6 +1555,21 @@
 <p>Site interessante https://wanago.io/2019/03/25/node-js-typescript-7-creating-a-server-and-receiving-requests/ para fazer um servidor http com node puro e Typescript</p>
 <p>Errei na solução em typescript do <a href="AlgoExpert">AlgoExpert</a> pois pensei que o 'in' do Js era similar ao do Python. Não, o in do JS é para verificar se uma propriedade está em um objeto. E não para ver se algum elemento está em um array</p>
 <p>https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/in</p>
+<p>######  Mention in <a href="AlgoExpert-#194">AlgoExpert #194</a>  </p>
+<blockquote>
+<p>Solução em <a href="typescript">typescript</a></p>
+</blockquote>
+<div class="highlight"><pre><span></span><code><span class="k">export</span> <span class="kd">function</span> <span class="nx">twoNumberSum</span><span class="p">(</span><span class="nx">array</span>: <span class="kt">number</span><span class="p">[],</span> <span class="nx">targetSum</span>: <span class="kt">number</span><span class="p">)</span> <span class="p">{</span>
+
+    <span class="k">for</span><span class="p">(</span><span class="kd">let</span> <span class="nx">i</span><span class="o">=</span><span class="mf">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">array</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">){</span>
+        <span class="k">if</span><span class="p">(</span> <span class="nx">array</span><span class="p">.</span><span class="nx">slice</span><span class="p">(</span><span class="nx">i</span><span class="o">+</span><span class="mf">1</span><span class="p">).</span><span class="nx">include</span><span class="p">(</span><span class="nx">targetSum</span> <span class="o">-</span> <span class="nx">array</span><span class="p">[</span><span class="nx">i</span><span class="p">])</span> <span class="p">){</span>
+            <span class="k">return</span> <span class="p">[</span><span class="nx">array</span><span class="p">[</span><span class="nx">i</span><span class="p">],</span> <span class="nx">targetSum</span> <span class="o">-</span> <span class="nx">array</span><span class="p">[</span><span class="nx">i</span><span class="p">]]</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+  <span class="k">return</span> <span class="p">[];</span>
+
+<span class="p">}</span>
+</code></pre></div>
 <hr />
 
               
