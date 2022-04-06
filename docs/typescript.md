@@ -29,5 +29,8 @@ export function twoNumberSum(array: number[], targetSum: number) {
 }
 ```
 
+
+<img width="1225" alt="image" src="https://user-images.githubusercontent.com/12011070/162054739-baf969c3-d04a-41d1-9c78-d87109467fe2.png">
+
 -------------------------------------------------------------------------------
 
