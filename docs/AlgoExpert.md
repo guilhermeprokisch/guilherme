@@ -32,5 +32,26 @@ export function twoNumberSum(array: number[], targetSum: number) {
 }
 ```
 
+
+Validate subsequence:
+
+```python
+def isValidSubsequence(array, sequence):
+    if array == [] and sequence != []:
+        return False
+
+    if sequence == []:
+        return True
+
+    head_array = array[0]
+    head_sequence = sequence[0]
+    tail_array = array[1:]
+    tail_sequence = sequence[1:]
+
+    if head_array == head_sequence:
+        return isValidSubsequence(tail_array, tail_sequence)    
+    return isValidSubsequence(tail_array, sequence)
+```
+
 -------------------------------------------------------------------------------
 
