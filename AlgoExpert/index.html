@@ -1522,6 +1522,21 @@
   
   
     <li class="md-nav__item">
+      <a href="../tail-call%20optimization/" class="md-nav__link">
+        Tail call optimization
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../typescript/" class="md-nav__link">
         Typescript
       </a>
@@ -1595,6 +1610,29 @@
     <span class="k">if</span> <span class="n">head_array</span> <span class="o">==</span> <span class="n">head_sequence</span><span class="p">:</span>
         <span class="k">return</span> <span class="n">isValidSubsequence</span><span class="p">(</span><span class="n">tail_array</span><span class="p">,</span> <span class="n">tail_sequence</span><span class="p">)</span>    
     <span class="k">return</span> <span class="n">isValidSubsequence</span><span class="p">(</span><span class="n">tail_array</span><span class="p">,</span> <span class="n">sequence</span><span class="p">)</span>
+</code></pre></div>
+<p>Solução em TS</p>
+<div class="highlight"><pre><span></span><code><span class="k">export</span> <span class="kd">function</span> <span class="nx">isValidSubsequence</span><span class="p">(</span><span class="nx">array</span>: <span class="kt">number</span><span class="p">[],</span> <span class="nx">sequence</span>: <span class="kt">number</span><span class="p">[])</span><span class="o">:</span> <span class="kt">boolean</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="nx">array</span><span class="p">.</span><span class="nx">length</span> <span class="o">==</span> <span class="mf">0</span> <span class="o">&amp;&amp;</span> <span class="nx">sequence</span><span class="p">.</span><span class="nx">length</span> <span class="o">&gt;</span> <span class="mf">0</span><span class="p">){</span>
+            <span class="k">return</span> <span class="kc">false</span>
+    <span class="p">}</span>
+
+    <span class="k">if</span> <span class="p">(</span><span class="nx">sequence</span><span class="p">.</span><span class="nx">length</span> <span class="o">==</span> <span class="mf">0</span><span class="p">){</span>
+        <span class="k">return</span> <span class="kc">true</span>
+    <span class="p">}</span>
+
+    <span class="kd">let</span> <span class="nx">headSequence</span>:<span class="kt">number</span> <span class="o">=</span> <span class="nx">sequence</span><span class="p">[</span><span class="mf">0</span><span class="p">]</span>
+    <span class="kd">let</span> <span class="nx">tailSequence</span>:<span class="kt">number</span><span class="p">[]</span> <span class="o">=</span> <span class="nx">sequence</span><span class="p">.</span><span class="nx">slice</span><span class="p">(</span><span class="mf">1</span><span class="p">)</span>
+
+    <span class="kd">let</span> <span class="nx">headArray</span>:<span class="kt">number</span> <span class="o">=</span> <span class="nx">array</span><span class="p">[</span><span class="mf">0</span><span class="p">]</span>
+    <span class="kd">let</span> <span class="nx">tailArray</span>:<span class="kt">number</span><span class="p">[]</span> <span class="o">=</span>  <span class="nx">array</span><span class="p">.</span><span class="nx">slice</span><span class="p">(</span><span class="mf">1</span><span class="p">)</span>
+
+    <span class="k">if</span> <span class="p">(</span><span class="nx">headArray</span> <span class="o">==</span> <span class="nx">headSequence</span><span class="p">){</span>
+        <span class="k">return</span> <span class="nx">isValidSubsequence</span><span class="p">(</span><span class="nx">tailArray</span><span class="p">,</span> <span class="nx">tailSequence</span><span class="p">)</span>
+    <span class="p">}</span>
+    <span class="k">return</span> <span class="nx">isValidSubsequence</span><span class="p">(</span><span class="nx">tailArray</span><span class="p">,</span> <span class="nx">sequence</span><span class="p">)</span>
+
+<span class="p">}</span>
 </code></pre></div>
 <hr />
 
