@@ -4,6 +4,7 @@
 tail-call optimization é um forma de manter controlada a stack de recursão e melhorar o desenmpenho de funções recursivas do ponto de vista de memória
 
 
+[ recursão ](-recursão-)
 
 -------------------------------------------------------------------------------
 
