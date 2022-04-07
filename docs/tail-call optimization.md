@@ -6,5 +6,8 @@ tail-call optimization é um forma de manter controlada a stack de recursão e m
 
 [ recursão ](-recursão-)
 
+
+https://medium.com/trainingcenter/o-que-é-recursão-e-tail-call-optimization-tco-f1938188223c
+
 -------------------------------------------------------------------------------
 
