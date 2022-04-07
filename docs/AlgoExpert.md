@@ -53,5 +53,36 @@ def isValidSubsequence(array, sequence):
     return isValidSubsequence(tail_array, sequence)
 ```
 
+
+Solução em TS
+
+```typescript
+
+export function isValidSubsequence(array: number[], sequence: number[]): boolean {
+	if (array.length == 0 && sequence.length > 0){
+			return false
+	}
+		
+	if (sequence.length == 0){
+		return true
+	}
+			
+	let headSequence:number = sequence[0]
+	let tailSequence:number[] = sequence.slice(1)
+	
+	let headArray:number = array[0]
+	let tailArray:number[] =  array.slice(1)
+	
+	if (headArray == headSequence){
+		return isValidSubsequence(tailArray, tailSequence)
+	}
+	return isValidSubsequence(tailArray, sequence)
+	
+}
+
+
+
+```
+
 -------------------------------------------------------------------------------
 
