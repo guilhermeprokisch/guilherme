@@ -1,5 +1,5 @@
 [182](https://github.com/guilhermeprokisch/ideias/issues/182) 
-###### **Labels**: `Filosofia`
+###### **Labels**: `Filosofia`, `autoperguntas`
 
 
 
@@ -10,6 +10,9 @@ O fato do sentimismo existir explica por que é tão dificil o consenso em qualq
 
 
 [novopalavrismo](novopalavrismo)
+
+
+Mas porquê não é possível o consenso nas experiências internas? "Sentimentos"
 
 -------------------------------------------------------------------------------
 
