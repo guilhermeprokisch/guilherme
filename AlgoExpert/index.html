@@ -1679,6 +1679,19 @@
 
 <span class="p">}</span>
 </code></pre></div>
+<p>nonConstructibleChange</p>
+<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">nonConstructibleChange</span><span class="p">(</span><span class="n">coins</span><span class="p">):</span>
+    <span class="n">coins</span><span class="o">.</span><span class="n">sort</span><span class="p">()</span>
+
+    <span class="n">current_change_created</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="k">for</span> <span class="n">coin</span> <span class="ow">in</span> <span class="n">coins</span><span class="p">:</span>
+        <span class="k">if</span> <span class="n">coin</span> <span class="o">&gt;</span> <span class="n">current_change_created</span> <span class="o">+</span> <span class="mi">1</span><span class="p">:</span>
+            <span class="k">return</span> <span class="n">current_change_created</span> <span class="o">+</span> <span class="mi">1</span>
+
+        <span class="n">current_change_created</span> <span class="o">+=</span> <span class="n">coin</span>
+
+    <span class="k">return</span> <span class="n">current_change_created</span> <span class="o">+</span> <span class="mi">1</span>
+</code></pre></div>
 <hr />
 
               
