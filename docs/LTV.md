@@ -7,6 +7,10 @@ Pra que serve
 
 
 
+-  Segmentation to idenfity most profitable customers
+- Identify trats and features of valuable customers
+- Determine how to allocate resources amoung customers
+- Enable evaluation of what a company should pay to acquire the customer relationship
 
 -------------------------------------------------------------------------------
 
