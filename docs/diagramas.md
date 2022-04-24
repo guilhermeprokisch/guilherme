@@ -10,5 +10,11 @@
 
 [echarts](echarts) https://echarts.apache.org/en/index.html parace uma ferramenta legal para talvez usar na visulização de um futuro app shopify
 
+
+[visualização de dados](visualização-de-dados)
+
+
+[shopify app](shopify-app)
+
 -------------------------------------------------------------------------------
 
