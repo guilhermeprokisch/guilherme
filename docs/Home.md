@@ -6,6 +6,8 @@
 Esse é minha wiki pessoal.
 
 
+ ######  Mention in [Arguementos contra o capitalismo #219](Arguementos-contra-o-capitalismo-#219)  
+ > [Home](Home)
 
 -------------------------------------------------------------------------------
 
