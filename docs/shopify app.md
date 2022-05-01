@@ -17,5 +17,10 @@ Twitt com ótimas dicas [capterra](capterra) e [g2](g2) .com https://twitter.com
 
 <img width="622" alt="image" src="https://user-images.githubusercontent.com/12011070/166161910-c6bb43e1-d49f-46d0-8373-31988c20c0df.png">
 
+
+https://sasi.unionworks.co.uk/app/lifetimely-lifetime-value-and-profit-analytics
+
+Como se fosse um [Keepa](Keepa) para o Shopify
+
 -------------------------------------------------------------------------------
 
