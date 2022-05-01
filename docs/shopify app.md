@@ -11,5 +11,11 @@ Base de dados e notebook kaggle https://www.kaggle.com/code/usernam3/shopify-app
 
 https://apps.shopify.com/data-export?surface_detail=data+science&surface_inter_position=1&surface_intra_position=18&surface_type=search aplicativo para exportação de dados
 
+
+Twitt com ótimas dicas [capterra](capterra) e [g2](g2) .com https://twitter.com/PierreDeWulf/status/1329765202095575041
+
+
+<img width="622" alt="image" src="https://user-images.githubusercontent.com/12011070/166161910-c6bb43e1-d49f-46d0-8373-31988c20c0df.png">
+
 -------------------------------------------------------------------------------
 
