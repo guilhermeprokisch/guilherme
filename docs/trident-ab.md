@@ -36,5 +36,8 @@ Giulia Interview Resume:
    * Why some tests are not showing any data even after 2 days.
    * Not winner showing the winner after finished test ( Is this automatic)?
 
+
+https://localhost/auth?shop=tridentab-dev.myshopify.com
+
 -------------------------------------------------------------------------------
 
