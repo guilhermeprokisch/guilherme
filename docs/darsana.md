@@ -13,5 +13,8 @@ São as os pontos de vista do pensamento hindu
 
  As escolas ocidentais da filosofia são vistas frequentemente em conflitos uma com a outra — por exemplo, platonistas e aristotélicos, racionalistas e empiricistas etc. — ao passo que o darshanas do Hinduísmo, apesar de frequentemente apresentarem articulações contrastantes, são inspirados por uma unidade ao menos implícita
 
+
+Ou seja, a pesar de parecerem conflitantes são apenas pontos de vista de uma mesmo objeto
+
 -------------------------------------------------------------------------------
 
