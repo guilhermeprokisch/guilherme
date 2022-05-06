@@ -4,6 +4,7 @@
 Yoga é um [darsana](darsana)
 
 
+Yoga é o [nirodha](nirodha) das [vrttis](vrttis) de [citta](citta)
 
 -------------------------------------------------------------------------------
 
