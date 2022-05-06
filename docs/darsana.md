@@ -16,5 +16,8 @@ São as os pontos de vista do pensamento hindu
 
 Ou seja, a pesar de parecerem conflitantes são apenas pontos de vista de uma mesmo objeto
 
+
+![image](https://user-images.githubusercontent.com/12011070/167054725-750fbd81-fe33-4245-bf74-fbc1801f76d7.png)
+
 -------------------------------------------------------------------------------
 
