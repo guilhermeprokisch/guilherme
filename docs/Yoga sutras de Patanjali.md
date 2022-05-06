@@ -6,6 +6,10 @@
 Diferença entre o essencial e espiritual. A essência de algo é o espirito de algo?
 
 
+[Yantras](Yantras) 
+
+
+![]()
 
 -------------------------------------------------------------------------------
 
