@@ -39,5 +39,11 @@ Giulia Interview Resume:
 
 https://localhost/auth?shop=tridentab-dev.myshopify.com
 
+
+<img width="1196" alt="image" src="https://user-images.githubusercontent.com/12011070/167179916-cc01722c-b857-434d-8a87-ec592d08fde1.png">
+
+
+Pq o teste continua rodando mesmo depois de parado?
+
 -------------------------------------------------------------------------------
 
