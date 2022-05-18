@@ -1,5 +1,7 @@
 [108](https://github.com/guilhermeprokisch/ideias/issues/108) 
-###### 
+###### **Labels**: `Dicas`
+
+
 
 Uma ferramenta para desenhar gráficos com texto
 
