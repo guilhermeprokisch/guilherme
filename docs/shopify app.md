@@ -25,5 +25,8 @@ Como se fosse um [Keepa](Keepa) para o Shopify
 
 https://github.com/carstenlebek/shopify-non-embedded-app-template
 
+
+https://github.com/Shopify/product-reviews-sample-app
+
 -------------------------------------------------------------------------------
 
