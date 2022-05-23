@@ -3,7 +3,7 @@
 
 Ideias
 
--  [ ] Create tooltip for column explatation
+-  [x] Create tooltip for column explatation
  - [ ] Implementar testes 
  - [ ] Migrar para o CLI faria ficar mais fácil o procedimento de rodar local
 
@@ -47,6 +47,9 @@ Pq o teste continua rodando mesmo depois de parado?
 
 
 Agrupar testes por tags
+
+
+An link for the looser page
 
 -------------------------------------------------------------------------------
 
