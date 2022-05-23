@@ -22,5 +22,8 @@ https://sasi.unionworks.co.uk/app/lifetimely-lifetime-value-and-profit-analytics
 
 Como se fosse um [Keepa](Keepa) para o Shopify
 
+
+https://github.com/carstenlebek/shopify-non-embedded-app-template
+
 -------------------------------------------------------------------------------
 
