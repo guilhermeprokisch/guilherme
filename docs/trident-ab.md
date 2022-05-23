@@ -45,5 +45,8 @@ https://localhost/auth?shop=tridentab-dev.myshopify.com
 
 Pq o teste continua rodando mesmo depois de parado?
 
+
+Agrupar testes por tags
+
 -------------------------------------------------------------------------------
 
