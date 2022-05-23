@@ -3,7 +3,7 @@
 
 Ideias
 
--  [x] Create tooltip for column explatation
+-  [ ] Create tooltip for column explatation
  - [ ] Implementar testes 
  - [ ] Migrar para o CLI faria ficar mais fácil o procedimento de rodar local
 
