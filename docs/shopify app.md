@@ -28,5 +28,8 @@ https://github.com/carstenlebek/shopify-non-embedded-app-template
 
 https://github.com/Shopify/product-reviews-sample-app
 
+
+Melhor video explicando como o app funciona https://shopify.dev/apps/auth/oauth/getting-started
+
 -------------------------------------------------------------------------------
 
