@@ -4,6 +4,10 @@
 Frango assado, costela e arroz. 400g
 
 
+cafe da manha pao com ovo e cafe com leite
+
+
+cafe da tarde pao com manteiga de amendoim
 
 -------------------------------------------------------------------------------
 
