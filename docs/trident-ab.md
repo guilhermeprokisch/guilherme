@@ -51,5 +51,8 @@ Agrupar testes por tags
 
 An link for the looser page
 
+
+colocar sentry
+
 -------------------------------------------------------------------------------
 
