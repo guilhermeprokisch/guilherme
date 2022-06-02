@@ -8,6 +8,8 @@ cafe da manha pao com ovo e cafe com leite
 
 
 cafe da tarde pao com manteiga de amendoim
+yakisoba
+whey
 
 -------------------------------------------------------------------------------
 
