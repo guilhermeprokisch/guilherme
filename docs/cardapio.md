@@ -23,5 +23,8 @@ Lanche de presunto
 
 380 gramas janta frango empanado arroz e feitjao e salada
 
+
+100g granola 150 ml de leite
+
 -------------------------------------------------------------------------------
 
