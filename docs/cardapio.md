@@ -20,5 +20,8 @@ Pao com amendoin
 
 Lanche de presunto
 
+
+380 gramas janta frango empanado arroz e feitjao e salada
+
 -------------------------------------------------------------------------------
 
