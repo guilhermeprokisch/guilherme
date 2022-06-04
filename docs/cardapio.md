@@ -32,5 +32,8 @@ Lanche de presunto
 
 80 g granola + 160ml leite
 
+
+arroz feijao salada e file de frango a parmegina
+
 -------------------------------------------------------------------------------
 
