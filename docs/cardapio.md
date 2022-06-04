@@ -29,5 +29,8 @@ Lanche de presunto
 
 280 g peixe empanado, pure de batata, arroz e feijao
 
+
+80 g granola + 160ml leite
+
 -------------------------------------------------------------------------------
 
