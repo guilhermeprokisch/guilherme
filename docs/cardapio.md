@@ -41,5 +41,8 @@ arroz feijao salada e file de frango a parmegina
 
 3 ovos fritos e cerveja
 
+
+misto quente
+
 -------------------------------------------------------------------------------
 
