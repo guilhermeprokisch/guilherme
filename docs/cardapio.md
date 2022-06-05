@@ -38,5 +38,8 @@ arroz feijao salada e file de frango a parmegina
 
 400 gramas arroz, feijão,contra filé, salada
 
+
+3 ovos fritos e cerveja
+
 -------------------------------------------------------------------------------
 
