@@ -53,5 +53,8 @@ café da tarde: sanduiche de pasta de amendoim
 
 janta: arroz com carne, queijo e extrato de tomate
 
+
+pão com queijo, 1 banana e leite com achocolatado
+
 -------------------------------------------------------------------------------
 
