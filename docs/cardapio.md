@@ -47,5 +47,8 @@ misto quente
 
 almoço: 500 g de arroz tropeiro e churrasco
 
+
+café da tarde: sanduiche de pasta de amendoim
+
 -------------------------------------------------------------------------------
 
