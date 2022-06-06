@@ -44,5 +44,8 @@ arroz feijao salada e file de frango a parmegina
 
 misto quente
 
+
+almoço: 500 g de arroz tropeiro e churrasco
+
 -------------------------------------------------------------------------------
 
