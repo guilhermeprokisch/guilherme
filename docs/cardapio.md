@@ -56,5 +56,11 @@ janta: arroz com carne, queijo e extrato de tomate
 
 pão com queijo, 1 banana e leite com achocolatado
 
+
+file de frango e arroz e feijão e salada 350g
+
+
+contra file arroz feijao e salada 300g
+
 -------------------------------------------------------------------------------
 
