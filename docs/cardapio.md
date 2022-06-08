@@ -62,5 +62,8 @@ file de frango e arroz e feijão e salada 350g
 
 contra file arroz feijao e salada 300g
 
+
+350g arroz feijao e frango ao molho
+
 -------------------------------------------------------------------------------
 
