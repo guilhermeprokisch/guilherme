@@ -65,5 +65,8 @@ contra file arroz feijao e salada 300g
 
 350g arroz feijao e frango ao molho
 
+
+500 g linguiça arroz feijão e salada
+
 -------------------------------------------------------------------------------
 
