@@ -1,4 +1,4 @@
-[194](https://github.com/guilhermeprokisch/ideias/issues/194) 
+[194](https://github.com/guilhermeprokisch/guilherme/issues/194) 
 ###### 
 
 Two Number Sum

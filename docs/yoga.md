@@ -1,4 +1,4 @@
-[253](https://github.com/guilhermeprokisch/ideias/issues/253) 
+[253](https://github.com/guilhermeprokisch/guilherme/issues/253) 
 ###### 
 
 Yoga é um [darsana](darsana)

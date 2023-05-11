@@ -1,4 +1,4 @@
-[231](https://github.com/guilhermeprokisch/ideias/issues/231) 
+[231](https://github.com/guilhermeprokisch/guilherme/issues/231) 
 ###### **Labels**: `aforismos`
 
 

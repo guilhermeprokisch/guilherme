@@ -1,4 +1,4 @@
-[257](https://github.com/guilhermeprokisch/ideias/issues/257) 
+[257](https://github.com/guilhermeprokisch/guilherme/issues/257) 
 ###### **Labels**: `Notas de Leitura`
 
 

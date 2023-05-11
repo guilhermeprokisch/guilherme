@@ -1,4 +1,4 @@
-[252](https://github.com/guilhermeprokisch/ideias/issues/252) 
+[252](https://github.com/guilhermeprokisch/guilherme/issues/252) 
 ###### 
 
 Ideias

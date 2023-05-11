@@ -1,4 +1,4 @@
-[60](https://github.com/guilhermeprokisch/ideias/issues/60) 
+[60](https://github.com/guilhermeprokisch/guilherme/issues/60) 
 ###### **Labels**: `Filosofia`, `Literatura`, `História`
 
 

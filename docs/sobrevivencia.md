@@ -1,4 +1,4 @@
-[208](https://github.com/guilhermeprokisch/ideias/issues/208) 
+[208](https://github.com/guilhermeprokisch/guilherme/issues/208) 
 ###### **Labels**: `Filosofia`, `autoperguntas`
 
 

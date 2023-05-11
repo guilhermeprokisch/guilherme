@@ -1,4 +1,4 @@
-[147](https://github.com/guilhermeprokisch/ideias/issues/147) 
+[147](https://github.com/guilhermeprokisch/guilherme/issues/147) 
 ###### 
 
 !!! quote ":material-apple: Apple Silicon (M1) and :fontawesome-brands-raspberry-pi: Raspberry Pi"

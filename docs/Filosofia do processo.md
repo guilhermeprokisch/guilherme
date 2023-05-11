@@ -1,4 +1,4 @@
-[265](https://github.com/guilhermeprokisch/ideias/issues/265) 
+[265](https://github.com/guilhermeprokisch/guilherme/issues/265) 
 ###### 
 
 Filosofia do processo
