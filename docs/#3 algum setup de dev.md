@@ -4,6 +4,7 @@
 test
 
 
+parei tentando implementar as rotas de autentificacao do shopify no next 13
 
 -------------------------------------------------------------------------------
 
