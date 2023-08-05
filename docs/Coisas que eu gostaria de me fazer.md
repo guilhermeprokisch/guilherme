@@ -6,7 +6,8 @@
 - Limpeza
 - Exercício fisico
 - Ensinar
-
+- Estudar
+- Estudar Alemão
 
 
 
