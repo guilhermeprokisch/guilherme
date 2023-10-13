@@ -1,0 +1,2 @@
+
+Poisedon ajuda os gregos e eles têm um contra ataque sobre os troianos perto das naus. Os troianos voltam a se reunir sobre o comando de Heitor e agora estão os dois lados com sede e confiança  de ataque um ao outro.

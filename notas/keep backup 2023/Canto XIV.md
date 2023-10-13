@@ -1,0 +1,2 @@
+
+Nestor encontram-se com os comandantes. Agamenon fala algumas palavra desistirem da guerra. Ulisses o repreende.  Hera faz um plano para seduzir Zeus e ajudar os gregos. Com ajuda do laço de afrodide e hipnos ( deus do sono) ela seduz Zeus. Com ele distraído hipnos da a notícia para poisedon que está comandando os gregos. Com isso eles conseguem ânimo e uma reviravolta na batalha. Heitor é ferido com uma pedra por Ajax 

@@ -1,0 +1,2 @@
+
+Zeus acorda e vê que Hera o "enganou". Com isso ele diz seu plano de ajudar Heitor e os troianos por um tempo e forçar Aquiles a entrar na guerra e cumprir a promessa quen tinha feito a tetis. Hera vai conversar com os deus e passa a order a iris e a apolo. Iris vai falar com poisidon sobre a order de Zeus. Caso descumprida Zeus iria brigar com seu irmão. Poseidon aceita. Apolo vai até Heitor a anima os treinos. Eles tem uma reviravolta na guerra e chegam destruindo as naus dos gregos. O plano de Zeus está se cumprindo.
