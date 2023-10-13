@@ -27,3 +27,17 @@ Uma história
 
 -------------------------------------------------------------------------------
 
+
+
+### Generated Flashcards
+#flashcards
+
+
+What is the main idea of Flaubert's work? :: Flaubert adds the value of work to the figure of the author, showing that poetics can come from the origin of manual labor.
+<!--SR:!2023-10-14,1,230-->
+
+What is the main difference between Flaubert and Vitor Hugo? :: Vitor Hugo hid his drafts which showed the effort to make his books, while Flaubert did not hide the effort of creating his works.
+<!--SR:!2023-10-14,1,230-->
+
+What is the main idea of Aristotle's Poetics? :: Aristotle's Poetics is a treatise that deals with the nature of poetry, its genres, and its effects on the audience.
+<!--SR:!2023-10-14,1,230-->

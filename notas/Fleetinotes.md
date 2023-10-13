@@ -9,6 +9,8 @@ source_title: ""
 source_description: ""
 source_image_url: ""
 created_date: "2023-10-13"
-modified_date: "2023-10-13"
+modified_date: "2023-10-14"
 ---
 Agora sincronizado [[Teste]]
+
+![[Pasted image 20231014000654.png]]
