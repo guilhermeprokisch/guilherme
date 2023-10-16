@@ -35,3 +35,14 @@ Quando fazemos um planejamento da semana quanto do nosso tempo nos reservamos pa
  ```
  
 [[Poesia]] é a forma  mais duradoura. Todas as grandes obras que duraram pelo tempo foram poesias.  Pensei um no caso dos [[Racionais]]
+
+
+[[100 poemas de Kabir]]
+
+Os 3 caminhos do [[yoga]] 
+- [[karma]]  - A busca da unidade através da ação (trabalho)
+- [[jnãna]] - A busca da unidade através do conhecimento racional
+- [[bhaki]] -  A busca através da devoção.
+
+
+ 
