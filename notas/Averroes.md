@@ -1,3 +1,5 @@
+
+
 [41](https://github.com/guilhermeprokisch/guilherme/issues/41) 
 ###### **Labels**: `Filosofia`, `Islam`
 
@@ -26,4 +28,3 @@ Averroes foi um grande opositor de [Al-Ghazali](Al-Ghazali.md). Esse é fundamen
 É defende uma aproximação com a filosofia de [Aristóteles](Aristóteles.md) e o Islam.
 
 -------------------------------------------------------------------------------
-
