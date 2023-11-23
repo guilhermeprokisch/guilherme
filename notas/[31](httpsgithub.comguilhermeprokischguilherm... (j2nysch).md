@@ -7,7 +7,7 @@
 ###### Mentioned in [Marco Aurélio](Marco-Aurélio)  
  > https://www.youtube.com/watch?v=pfN2XrVPf7Y
 
-Nesse video ele comenta sobre o conceito de vida após a morte Romana e Cristã. Na Romana somente sobrevive suas partes pertecentes ao cosmo, ache parecido com um conceito de vida a após a morte que tive ao ler [Hegel](Hegel.md).
+Nesse video ele comenta sobre o conceito de vida após a morte Romana e Cristã. Na Romana somente sobrevive suas partes pertecentes ao cosmo, ache parecido com um conceito de vida a após a morte que tive ao ler [[31](httpsgithub.comguilhermeprokischguilherm... (j2nysch)]([31](httpsgithub.comguilhermeprokischguilherm...%20(j2nysch).md).
 
 A morte cristã é muito mais chique. Vc sobrevive inteiro. Seus memórias. 
 
@@ -18,8 +18,8 @@ Já o cristianismo nega a humanidade como pecadora e por isso seria um repulso p
 Isso é um contradição no Cristianismo, o conceito de amor ao próximo não é verdadeiro. Pq se fosse então não haveria problema em continuar a vida após a morte aqui nesse mundo.
 
 
-###### Mentioned in [Averroes](Averroes.md)  
- > Averoes negava que nós éramos donos de nossos próprio intelecto ou espírito. Assim como [Hegel](Hegel.md) ele acreditava que compartilhavamos uma mente compartilhada, coletiva e eterna. Essa ideia de espirito universal parece reaparecer em vários momentos, e Averoes parece que é um precedente dessas ideias na europa islâmica. Interessante.
+###### Mentioned in [[41](httpsgithub.comguilhermeprokischguilhe... (36hiqf8)]([41](httpsgithub.comguilhermeprokischguilhe...%20(36hiqf8).md)  
+ > Averoes negava que nós éramos donos de nossos próprio intelecto ou espírito. Assim como [[31](httpsgithub.comguilhermeprokischguilherm... (j2nysch)]([31](httpsgithub.comguilhermeprokischguilherm...%20(j2nysch).md) ele acreditava que compartilhavamos uma mente compartilhada, coletiva e eterna. Essa ideia de espirito universal parece reaparecer em vários momentos, e Averoes parece que é um precedente dessas ideias na europa islâmica. Interessante.
 
 
 Para Hegel os estóicos não eram como eu pensei que seria. 
