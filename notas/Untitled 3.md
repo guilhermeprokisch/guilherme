@@ -3,5 +3,5 @@ A falha para escrever algo, a pausa , a dificuldade para escrever no computador,
 Como fazer então para que esse processo de transcrição mente, meio seja perfeito? Como consigo fazer um output do que está lá? Mas mesmo que eu faça seria esse output mais linear.
 
 
-
+	x§x
 
