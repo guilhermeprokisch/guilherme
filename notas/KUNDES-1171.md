@@ -18,3 +18,12 @@ Campanha - Links -> Talk to Ralf
 
 ---
 Backfilling - Two year engament users or another strategy?
+
+--
+
+Franz Meeting
+
+- 1 ) Create data ware house folder in export_braze of DWH-Automation. The result will create or append new table and export to braze 
+
+[[a9ea9629b5f869e761ed745c8295b574_MD5.jpeg|Open: Pasted image 20240209144555.png]]
+![[a9ea9629b5f869e761ed745c8295b574_MD5.jpeg]]
